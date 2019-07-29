@@ -10,4 +10,5 @@
 
 ### Arrays
 1. [2D Array - DS](./warmup_challenges/2d_array_ds.php)
+2. [Left Rotation](./warmup_challenges/left_rotation.go)
 
