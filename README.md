@@ -9,6 +9,8 @@
 4. [Repeated String](./warmup_challenges/repeated_string.php)
 
 ### Arrays
-1. [2D Array - DS](./warmup_challenges/2d_array_ds.php)
-2. [Left Rotation](./warmup_challenges/left_rotation.go)
+1. [2D Array - DS](./arrays/2d_array_ds.php)
+2. [Left Rotation](./arrays/left_rotation.go)
+3. [New Year Chaos](./arrays/new_year_chaos.go)
+4. [Minimum Swaps 2](./arrays/minimum_swaps_2.go)
 
